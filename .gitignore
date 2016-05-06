@@ -1,0 +1,13 @@
+node_modules
+public
+.tmp
+.idea
+.jpg
+.svg
+.png
+.mp4
+client/bower_components
+dist
+/server/config/local.env.js
+npm-debug.log
+coverage
